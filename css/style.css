@@ -259,7 +259,11 @@ button {
     color: #fff;
 }
 
-.logo {}
+.logo {
+    font-size: 40px;
+    color: #FFF;
+
+}
 
 /* header section end */
 
